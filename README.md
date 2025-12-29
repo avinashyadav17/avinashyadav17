@@ -1,11 +1,11 @@
-👋 Hi, I’m Avinash 
-🎓 Computer Engineering student at Pulchowk Campus
-💻 Interested in Web Development and Machine Learning
-🌐 Working with HTML, CSS, JavaScript, React, Flask, and Python
-🤖 Learning Python, Data Science, and Machine Learning concepts
-🛠️ Building projects to improve practical and problem-solving skills
-🎯 Passionate about coding, exploring new technologies, and contributing to open-source
-🎨 Hobbies: Making videos, photography, reading books, exploring new places, and writing code
+👋 Hi, I’m Avinash<br>
+🎓 Computer Engineering student at Pulchowk Campus<br>
+💻 Interested in Web Development and Machine Learning<br>
+🌐 Working with HTML, CSS, JavaScript, React, Flask, and Python<br>
+🤖 Learning Python, Data Science, and Machine Learning concepts<br>
+🛠️ Building projects to improve practical and problem-solving skills<br>
+🎯 Passionate about coding, exploring new technologies, and contributing to open-source<br>
+🎨 Hobbies: Making videos, photography, reading books, exploring new places, and writing code<br>
 🤝 Open to collaboration, learning, and open-source contributions
 
 ## 🌐 Socials:
