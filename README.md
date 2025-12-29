@@ -1,4 +1,11 @@
-👋 Hi, I’m Avinash<br>
+<div align="center">
+
+<h1 style="border: 2px solid #4CAF50; display: inline-block; padding: 15px 30px; border-radius: 15px;">
+👋 Hi, I’m Avinash
+</h1>
+
+</div>
+
 🎓 Computer Engineering student at Pulchowk Campus<br>
 💻 Interested in Web Development and Machine Learning<br>
 🌐 Working with HTML, CSS, JavaScript, React, Flask, and Python<br>
