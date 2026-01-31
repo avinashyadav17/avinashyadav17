@@ -1,5 +1,5 @@
 <h1 style="border: 2px solid #4CAF50; display: inline-block; padding: 15px 30px; border-radius: 15px;">
-👋 Hi, I’m Avinash yadav
+👋 Hi, I’m Avinash 
 </h1>
 
 🎓 Computer Engineering student at Pulchowk Campus<br>
